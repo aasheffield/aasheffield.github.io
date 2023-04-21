@@ -1,10 +1,10 @@
-# aasheffield.github.io
-Practice in web development.
+
 <!DOCTYPE html>
 <html lang = "en">
 <head>
     <meta charset = "UTF-8">
     <title>Final Project</title>
+
 </head>
 <body>
     <header>
